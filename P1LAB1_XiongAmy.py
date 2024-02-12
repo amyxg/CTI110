@@ -3,8 +3,8 @@
 #P1LAB1
 #Introduction to Python 3
 
-#Varibles
-name = "Pat"
+#input
+name = input("Enter your name: ")
 
 #output/print
 print("Hey", name)
