@@ -1,2 +1,4 @@
-# CTI110
-Repository for CTI110
+# CTI 110 Repository
+Created for P1LAB1
+Xiong
+02/12/2024
