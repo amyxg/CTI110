@@ -19,5 +19,4 @@ print('Fuel: $', fuel)
 print('Accomodation: $', accomondation)
 print('Food: $', food, '\n')
 
-remainderBal = budget - (fuel + accomondation + food)
-print('Remaining Balance: $', remainderBal)
+print('Remaining Balance: $', budget - (fuel + accomondation + food))
